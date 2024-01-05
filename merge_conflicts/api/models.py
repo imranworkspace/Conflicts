@@ -4,7 +4,7 @@ from django.db import models
 class StudentModel(models.Model):
     name=models.CharField(max_length=15)
     email=models.EmailField()
-    mobile=models.CharField(max_length=10)
+    mobile=models.IntegerField()
 
 
 
