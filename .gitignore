@@ -1,2 +1,4 @@
 myenv
 merge_conflicts/merge_conflicts/__pycache__/*.pyc
+merge_conflicts/api/__pycache__/*.pyc
+merge_conflicts/api/migrations/__pycache__/*.pyc
